@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Hagar Marzouk
-- 👀 I’m interested in AI && entrepreneurship
-- 🌱 I’m currently learning AI and Machine learning @ ITI 
+- 👀 I’m interested in Machine Learning, AI && Entrepreneurship <3 
+- 🌱 I’m currently learning AI and ML @ ITI 
 - 📫 How to reach me >> h.marzouk@nu.edu.eg
 
 <!---
